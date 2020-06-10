@@ -1,5 +1,5 @@
 # basic-webscraping
-webscarping
+webscraping with puppeteer
 
 
 sudo npm install 
